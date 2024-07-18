@@ -1,6 +1,6 @@
 # Financial Models and Valuation
 
-To take a look at the complete project, download the XSLX file.
+To take a look at the complete project, download the <a href="https://github.com/deepeshmanglani/tesla/blob/main/modelsandeval.xlsx">XSLX file</a>.
 
 ### Cash flow
 <img src="https://github.com/deepeshmanglani/tesla/blob/main/cashflow.png">
